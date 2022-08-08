@@ -1,0 +1,23 @@
+.heading{
+    width:100%;
+    font-size:22px;
+    margin:0px;
+    box-shadow:5px 5px 5px dimgray;
+}
+#start{
+margin-top:10px;
+}
+
+body{
+background-color:wheat;
+}
+
+.footer{
+    text-align:center;
+    background-color:darkslategrey;
+    color:white;
+    font-size:18px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
